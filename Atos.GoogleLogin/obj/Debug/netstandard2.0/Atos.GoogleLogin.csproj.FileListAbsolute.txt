@@ -1,0 +1,13 @@
+C:\Users\Bega\source\repos\Atos.GoogleLogin\Atos.GoogleLogin\Atos.GoogleLogin\obj\Debug\netstandard2.0\Atos.GoogleLogin.csproj.CoreCompileInputs.cache
+C:\Users\Bega\source\repos\Atos.GoogleLogin\Atos.GoogleLogin\Atos.GoogleLogin\obj\Debug\netstandard2.0\Atos.GoogleLogin.App.xaml.g.cs
+C:\Users\Bega\source\repos\Atos.GoogleLogin\Atos.GoogleLogin\Atos.GoogleLogin\obj\Debug\netstandard2.0\Atos.GoogleLogin.Views.Login.xaml.g.cs
+C:\Users\Bega\source\repos\Atos.GoogleLogin\Atos.GoogleLogin\Atos.GoogleLogin\obj\Debug\netstandard2.0\Atos.GoogleLogin.Views.MainPage.xaml.g.cs
+C:\Users\Bega\source\repos\Atos.GoogleLogin\Atos.GoogleLogin\Atos.GoogleLogin\obj\Debug\netstandard2.0\Atos.GoogleLogin.Views.Profile.xaml.g.cs
+C:\Users\Bega\source\repos\Atos.GoogleLogin\Atos.GoogleLogin\Atos.GoogleLogin\obj\Debug\netstandard2.0\Atos.GoogleLogin.AssemblyInfoInputs.cache
+C:\Users\Bega\source\repos\Atos.GoogleLogin\Atos.GoogleLogin\Atos.GoogleLogin\obj\Debug\netstandard2.0\Atos.GoogleLogin.AssemblyInfo.cs
+C:\Users\Bega\source\repos\Atos.GoogleLogin\Atos.GoogleLogin\Atos.GoogleLogin\bin\Debug\netstandard2.0\Atos.GoogleLogin.deps.json
+C:\Users\Bega\source\repos\Atos.GoogleLogin\Atos.GoogleLogin\Atos.GoogleLogin\bin\Debug\netstandard2.0\Atos.GoogleLogin.dll
+C:\Users\Bega\source\repos\Atos.GoogleLogin\Atos.GoogleLogin\Atos.GoogleLogin\bin\Debug\netstandard2.0\Atos.GoogleLogin.pdb
+C:\Users\Bega\source\repos\Atos.GoogleLogin\Atos.GoogleLogin\Atos.GoogleLogin\obj\Debug\netstandard2.0\Atos.GoogleLogin.dll
+C:\Users\Bega\source\repos\Atos.GoogleLogin\Atos.GoogleLogin\Atos.GoogleLogin\obj\Debug\netstandard2.0\Atos.GoogleLogin.pdb
+C:\Users\Bega\source\repos\Atos.GoogleLogin\Atos.GoogleLogin\Atos.GoogleLogin\obj\Debug\netstandard2.0\Atos.GoogleLogin.csprojResolveAssemblyReference.cache

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:prism="clr-namespace:Prism.Mvvm;assembly=Prism.Forms"
+             prism:ViewModelLocator.AutowireViewModel="True"
+             x:Class="Atos.GoogleLogin.Views.Login"
+             xmlns:behaviors="clr-namespace:Prism.Behaviors;assembly=Prism.Forms">
+    <!--xmlns:controls="clr-namespace:Atos.GoogleLogin.Controls;assembly=Atos.GoogleLogin"-->
+    <StackLayout>
+
+        <!--<controls:WebViewNavigated Source="{Binding Link}" WidthRequest="1000" HeightRequest="1000" Command="{Binding LoginViewNavigatedCommand}">
+            
+        </controls:WebViewNavigated>-->
+
+        <WebView x:Name="Browser" Source="{Binding Link, Mode=TwoWay}" WidthRequest="1000" HeightRequest ="1000">
+            <WebView.Behaviors>
+                <behaviors:EventToCommandBehavior Command="{Binding LoginViewNavigatedCommand}" EventName="Promjena"></behaviors:EventToCommandBehavior>
+            </WebView.Behaviors>
+        </WebView>
+    </StackLayout>
+  
+</ContentPage>
